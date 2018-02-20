@@ -1,6 +1,12 @@
 
-body {
-  margin-top: 50px;
+/*body {*/
+  /*margin-top: 50px;*/
+/*}*/
+
+.footer-background {
+  background-color: #292929;
+  padding-top: 50px;
+  color: white;
 }
 
 .ui.borderless.topmenu {
@@ -12,11 +18,10 @@ body {
 .ui.borderless.secondmenu {
   box-shadow: none;
   border: none;
-}
-
-.ui.borderless.secondmenu.dropdown.item {
   text-transform: uppercase;
 }
+
+
 
 /*.ui.segment.banner {*/
   /*background-color: #000000;*/
